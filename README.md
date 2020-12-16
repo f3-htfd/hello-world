@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi humans!
+f3-htfd in here, i like node.js and cofeescript (
